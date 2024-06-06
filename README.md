@@ -1,2 +1,2 @@
 # emp_serv
-em
+creating employee details database in java using spring framework and hibernate.
